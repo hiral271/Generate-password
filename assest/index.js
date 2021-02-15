@@ -6,7 +6,7 @@ const lowerCase = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','
 const specialCase =['@','#','$','%','&','*','+']
 const numeric = ['0','1','2','3','4','5','6','7','8','9']
 const Password = []
-
+ var generateBtn =document.getElementById('generate')
 
 
 
@@ -83,7 +83,13 @@ document.getElementById('password').value = password;
 
 
 }
+generateBtn.addEventListener('click',function(){
 
+
+    alphabets()
+
+
+})
 
 
 
