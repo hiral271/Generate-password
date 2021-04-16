@@ -20,3 +20,9 @@ create an application that enables employees to generate random passwords based 
 * If user ask for Capital letters it will add Capital letters and same function will be apply to Special letters , special charactors , numeric 
 
 * Choosen password requirement will be appear on place holder space .
+
+
+### view of Screenshot 
+
+
+![](https://github.com/hiral271/Generate-password/blob/main/view/Image-2021-04-15-at-10.45.06-PM.jpeg)
